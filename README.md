@@ -100,3 +100,5 @@ and more can be found in the [support document](docs/tutorial/support.md#finding
 [MIT](https://github.com/electron/electron/blob/main/LICENSE)
 
 When using the Electron or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+
+Here is my new text! This is me!
